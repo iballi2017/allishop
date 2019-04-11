@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+p{
+	margin: 10px;
+}
+a{
+	text-decoration: none;
+}
+.my-cart-button{
+	margin: 0 20px;
+}
+.cart-button-label{
+	margin-left: 10px;
+	}
+	.spacer{
+		flex: 1 1 auto;
+	}
+
+	.active{
+		color: white;
+	}
