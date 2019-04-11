@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
+	font-family: 'Roboto', sans-serif;
 }
 p{
 	margin: 10px;
@@ -21,3 +22,35 @@ a{
 	.active{
 		color: white;
 	}
+
+	.view-all{
+		font-weight: 600;
+	}
+	.view-all:hover{
+		color: #000;
+	}
+
+footer{
+	width: 100%;
+	background-color: #202020;
+	color: #fff;
+}
+
+footer .footer-list{
+	float: right;
+	font-size: 13px;
+}
+
+footer .footer-list a{
+	text-decoration: none;
+	color: #b5b5b5;
+}
+
+footer .footer-list a:hover{
+	color: #fff;
+}
+
+footer .footer-list .footer-list-head{
+	font-weight: 600;
+	font-size: 14px;
+}
