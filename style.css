@@ -16,9 +16,6 @@ a{
 .cart-button-label{
 	margin-left: 10px;
 	}
-	.spacer{
-		flex: 1 1 auto;
-	}
 
 	.active{
 		color: white;
