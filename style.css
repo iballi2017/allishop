@@ -9,6 +9,7 @@ p{
 a{
 	text-decoration: none;
 }
+
 .my-cart-button{
 	margin: 0 20px;
 }
@@ -37,8 +38,8 @@ footer{
 }
 
 footer .footer-list{
-	float: right;
 	font-size: 13px;
+	width: 200px;
 }
 
 footer .footer-list a{
@@ -53,4 +54,8 @@ footer .footer-list a:hover{
 footer .footer-list .footer-list-head{
 	font-weight: 600;
 	font-size: 14px;
+}
+
+footer .footer-list img{
+	width: 100%;
 }
