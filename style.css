@@ -32,6 +32,10 @@ a{
 		transition: visibility 1s;
 	}
 
+	.break{
+		display: none;
+	}
+
 footer{
 	width: 100%;
 	background-color: #202020;
@@ -59,4 +63,12 @@ footer .footer-list .footer-list-head{
 
 footer .footer-list img{
 	width: 100%;
+}
+
+
+@media (max-width: 768px){
+
+	.break{
+		display: block;
+	}
 }
