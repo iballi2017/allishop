@@ -43,7 +43,7 @@ footer{
 }
 
 footer .footer-list{
-	font-size: 13px;
+	font-size: 14px;
 	width: 200px;
 }
 
@@ -58,13 +58,16 @@ footer .footer-list a:hover{
 
 footer .footer-list .footer-list-head{
 	font-weight: 600;
-	font-size: 14px;
+	font-size: 15px;
 }
 
 footer .footer-list img{
 	width: 100%;
 }
 
+
+
+/*Media query 768px*/
 
 @media (max-width: 768px){
 
